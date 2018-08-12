@@ -1,0 +1,1 @@
+# sniplog-ulauncher-extension
